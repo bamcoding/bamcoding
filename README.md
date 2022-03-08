@@ -1,6 +1,5 @@
 #### 👋&nbsp; Hi there! I'm web developer using Spring Framework.
 
-
 ### 💪&nbsp; Skills & Experience
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
@@ -15,15 +14,14 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white"/>
 </p>
 
-
 #### 🌱&nbsp; Skil to do 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
 </p> 
-<!--  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamcoding&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamcoding&show_icons=true&theme=default)
+<!--
 **bamcoding/bamcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
