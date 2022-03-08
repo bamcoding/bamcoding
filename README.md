@@ -3,9 +3,7 @@
 ### 💪 Skills & Experience
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Subversion-809CC9?logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Subversion-809CC9?logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white"/>
 
 ### 🌱 Skil to do 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
