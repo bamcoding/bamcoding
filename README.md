@@ -10,7 +10,7 @@
 ### 🌱 Skil to do 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
 
-<!--
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamcoding&show_icons=true&theme=radical)
 
 **bamcoding/bamcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
