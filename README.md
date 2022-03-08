@@ -1,6 +1,5 @@
-<p>👋&nbsp; Hi there! I'm web developer using Spring Framewor.</p>
+####👋&nbsp; Hi there! I'm web developer using Spring Framework.
 
-<br/>
 
 ### 💪&nbsp; Skills & Experience
 <p>
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/Subversion-809CC9?logo=Subversion&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white"/>
 </p>
-<br/>
+
 
 #### 🌱&nbsp; Skil to do 
 <p>
