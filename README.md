@@ -1,4 +1,4 @@
-### 👋 Hi there! i'm lee geun jae.
+### 👋 Hi there! I'm Lee Geun Jae.
 
 ### 💪 Skills & Experience
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
