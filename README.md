@@ -1,7 +1,6 @@
 <p>👋&nbsp; Hi there! I'm web developer using Spring Framewor.</p>
 
 <br/>
-<br/>
 
 ### 💪&nbsp; Skills & Experience
 <p>
@@ -10,16 +9,12 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"/>
 </p>
-<br/>
-<br/>
-
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Subversion-809CC9?logo=Subversion&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white"/>
 </p>
-<br/>
 <br/>
 
 #### 🌱&nbsp; Skil to do 
