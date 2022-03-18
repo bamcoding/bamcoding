@@ -6,7 +6,7 @@
 
 #### 👋&nbsp; Hi there! I'm web developer using Spring Framework.
 
-### 💪&nbsp; Skills & Experience
+#### 💪&nbsp; Skills & Experience
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black"/>
