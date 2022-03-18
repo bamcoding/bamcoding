@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=Sourcetree&logoColor=white"/>
 </p>
 
-#### 🌱&nbsp; Skil to do 
+#### 🌱&nbsp; Skills to do 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
