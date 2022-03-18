@@ -1,3 +1,8 @@
+<p>
+  <a href="https://distribute.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/♧ Blog-D34949?logo=blog&logoColor=white"/>
+  </a>
+</p>
 #### 👋&nbsp; Hi there! I'm web developer using Spring Framework.
 
 ### 💪&nbsp; Skills & Experience
