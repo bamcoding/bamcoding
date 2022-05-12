@@ -24,6 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/WebSquare5-F1DAFB?logo=Square&logoColor=black"/>
 </p> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamcoding&show_icons=true&theme=default)
